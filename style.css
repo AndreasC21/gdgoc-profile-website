@@ -249,23 +249,23 @@ input:checked + label .desc a {
 }
 
 .img[for="s1"] {
-  background-image: url("/image/phoning.png");
+  background-image: url("image/phoning.png");
 }
 
 .img[for="s2"] {
-  background-image: url("/image/random.png");
+  background-image: url("image/random.png");
 }
 
 .img[for="s3"] {
-  background-image: url("/image/revou.png");
+  background-image: url("image/revou.png");
 }
 
 .img[for="s4"] {
-  background-image: url("/image/gallery.png");
+  background-image: url("image/gallery.png");
 }
 
 .img[for="s5"] {
-  background-image: url("/image/portfolio.png");
+  background-image: url("image/portfolio.png");
 }
 
 #talk {
